@@ -11,9 +11,6 @@
     <loc>http://example.org/posts/</loc>
     <lastmod>2022-08-27T18:17:10+05:30</lastmod>
   </url><url>
-    <loc>http://example.org/posts/my-first-post/</loc>
-    <lastmod>2022-08-27T17:52:48+05:30</lastmod>
-  </url><url>
     <loc>http://example.org/categories/</loc>
   </url><url>
     <loc>http://example.org/tags/</loc>
