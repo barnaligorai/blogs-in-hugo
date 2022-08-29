@@ -2,4 +2,3 @@ baseURL = 'https://barnaligorai.github.io/'
 languageCode = 'en-us'
 title = 'My First Hugo Site'
 theme = "ananke"
-publishDir = "docs"
