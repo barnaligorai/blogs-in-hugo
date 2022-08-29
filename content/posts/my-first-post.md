@@ -13,10 +13,17 @@ Hosted the site on *github*.
 
 Hugo is super easy to start with. Because there is no database, no plugins requiring any permissions.
 
-By default hugo serves on : `http://localhost:1313`
+**By default hugo serves on :** 
+```sh
+http://localhost:1313
+```
 
 
-**Create a new site with : `hugo new site site-name`**
+**Create a new site with :**
+
+```sh
+hugo new site site-name
+```
 
 To change the site open config.toml and edit settings such as the blog's title, copyright, name, your social network links, etc.
 
@@ -24,4 +31,8 @@ To change the site open config.toml and edit settings such as the blog's title, 
 Set a theme, with Hugo, you can either theme your blog yourself or use one of the beautiful, ready-made themes. I chose Ananke because it is simple. Download the theme from GitHub and add it to your site’s themes directory.
 
 
-**Create a new post : `hugo new posts/my-first-post.md`**
+**Create a new post :**
+
+```sh
+hugo new posts/post-name.md
+```
