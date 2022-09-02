@@ -32,14 +32,14 @@ class Greet {
 }
 ```
 
-  - File externtion : **Filename.java**
+  - File extention : **Greet.java**
   - Convention to follow : **Keep classname and Filename as same**
 
 
 ## Compile your code
 
 ```sh
-javac FileName.java
+javac Greet.java
 ```
 
 This command will compile your code to byte code and create '.class' file named same as your className.
@@ -48,7 +48,7 @@ This command will compile your code to byte code and create '.class' file named 
 ## Run your code
 
 ```sh
-java ClassName
+java Greet
 ```
 
 This command will run your byte code.

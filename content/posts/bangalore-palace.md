@@ -35,3 +35,11 @@ The granite seats decorated with fluorescent blue ceramic tiles on the ground fl
 ![Barnali](/images/bangalore_palace_me.jpg)
 
 A visit to the palace gives you a chance to witness the elegant and lavish splendour of one of the most powerful dynasties of South India. An audio tape is available inside the Palace, both in Hindi and English, to help the people having language issues, understand its history better.
+
+
+### Persoanl touch
+
+  - Visiting this place is a wonderful experience.
+  - The vine-covered walls caught my eyes.
+  - I liked the amazing paintings.
+  - Though it was really a beautiful day, but the entry fee is quite high. So it is for one-time visit only.
