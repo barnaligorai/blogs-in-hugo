@@ -6,7 +6,7 @@ draft: false
 
 ![book](/images/i_know_why_the_caged_bird_sings.jpeg)
 
-I've recently read the book titled **"I Know Why The Caged Bird Sings"** by *Maya Angelou*. There are seven volumes of her autobiography, this one is describing the early years of her life. One of my favourite teachers, *Thilaka ma'am* suggested me to read this book.
+I've read the book titled **"I Know Why The Caged Bird Sings"** by *Maya Angelou*. There are seven volumes of her autobiography, this one is describing the early years of her life. One of my favourite teachers, *Thilaka ma'am* suggested me to read this book.
 
 
 Maya Angelou was a civil rights activist, poet and award-winning author. This book "I Know Why the Caged Bird Sings" deals with weighty issues like rape, identity, and racism. When it came out in 1969, it was one of the first books to honestly depict the experiences of a black woman growing up in South-America.
