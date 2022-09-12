@@ -1,7 +1,7 @@
 ---
 title: "Mysore Palace"
 date: 2022-09-10T19:49:36+05:30
-draft: true
+draft: false
 tags: 
   - Mysore palace
   - History
