@@ -4,7 +4,7 @@ date: 2022-08-27T17:52:48+05:30
 draft: false
 tags: 
   - tech
-  - hugo
+  - Hugo
 ---
 
 Hi. This is **Barnali Gorai**. 
@@ -12,7 +12,7 @@ This is my first post on this site.
 
 I have created this site using hugo.
 Started with the **Ananke** theme.
-Hosted the site on *github*.
+Hosted the site on *GitHub*.
 
 Hugo is super easy to start with. Because there is no database, no plugins requiring any permissions.
 

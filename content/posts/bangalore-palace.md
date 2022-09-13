@@ -3,9 +3,9 @@ title: "Bangalore Palace"
 date: 2022-09-01T20:22:16+05:30
 draft: false
 tags: 
-  - bangalore
-  - bangalore palace
-  - history
+  - Bangalore
+  - Bangalore palace
+  - History
 ---
 
 ![Bangalore_Palace](/images/bangalore_palace.jpg)
