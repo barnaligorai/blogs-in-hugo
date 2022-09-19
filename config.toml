@@ -1,4 +1,4 @@
 baseURL = 'https://barnaligorai.github.io/'
 languageCode = 'en-us'
-title = 'My First Hugo Site'
+title = "Barnali's"
 theme = "ananke"
