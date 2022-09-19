@@ -2,6 +2,8 @@
 title: "99 Variety Dosa"
 date: 2022-09-19T18:35:00+05:30
 draft: false
+tags: 
+  - Food
 ---
 
 Provide yourself a chance to fall in love with **Dosa** in *99 Variety Dosa*.
