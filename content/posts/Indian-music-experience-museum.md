@@ -65,4 +65,4 @@ Visit the Sound Garden, there are 10 musical installations for you to explore. Y
 |Group (10 or more)|125|200|
 |School Group (upto 12th Grade)|100|100|
 
- ----
+***

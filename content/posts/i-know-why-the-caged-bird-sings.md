@@ -2,6 +2,8 @@
 title: "I Know Why the Caged Bird Sings"
 date: 2022-09-02T20:53:26+05:30
 draft: false
+tags: 
+  - Book
 ---
 
 ![book](/images/i_know_why_the_caged_bird_sings.jpeg)

@@ -35,5 +35,4 @@ I was never a big fan of Dosa, but after trying here I have developed a differen
   
     ![Schezwan Noodles Paneer Dosa](/images/99_variety_dosa/Schezwan%20Noodles%20Paneer%20Dosa.jpg)
 
-
----
+***

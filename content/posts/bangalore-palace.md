@@ -4,7 +4,7 @@ date: 2022-09-01T20:22:16+05:30
 draft: false
 tags: 
   - Bangalore
-  - Bangalore palace
+  - Palace
   - History
 ---
 
@@ -43,3 +43,5 @@ A visit to the palace gives you a chance to witness the elegant and lavish splen
   - The vine-covered walls caught my eyes.
   - I liked the amazing paintings.
   - Though it was really a beautiful day, but the entry fee is quite high. So it is for one-time visit only.
+
+***

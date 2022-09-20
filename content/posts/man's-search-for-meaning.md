@@ -6,9 +6,7 @@ tags:
   - Book
 ---
 
-
 ![cover](/images/book/Man-Search-For-Meaning.webp)
-
 
 Throughout the book **"Man’s Search For Meaning"** by *Victor Frankl*, he takes the reader on a journey of what life was like for the average prisoner during the *Holocaust* and adds his own existential analysis.
 

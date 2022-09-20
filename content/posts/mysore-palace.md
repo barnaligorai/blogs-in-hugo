@@ -3,10 +3,10 @@ title: "Mysore Palace"
 date: 2022-09-10T19:49:36+05:30
 draft: false
 tags: 
-  - Mysore palace
+  - Mysore
+  - Palace
   - History
 ---
-
 
 An incredibly breathtaking example of Indo-Saracenic style of architecture, the *Mysore Palace* is a magnificent palace located in Mysore in the state of Karnataka.
 
@@ -54,4 +54,5 @@ Mysore Palace remains open from 10 am to 5.30 pm every day.
 The entry fee for 
   - Adults Rs 100 / head.
   - Children above 10 years and below 18 years Rs 50 / head.
-  
+
+***

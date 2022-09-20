@@ -3,8 +3,8 @@ title: "First Day With Java"
 date: 2022-09-01T22:45:15+05:30
 draft: false
 tags:
-  - tech
-  - java
+  - Tech
+  - Java
 ---
 
 Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.
@@ -52,3 +52,5 @@ java Greet
 ```
 
 This command will run your byte code.
+
+***

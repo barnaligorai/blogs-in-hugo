@@ -3,7 +3,7 @@ title: "About This Site"
 date: 2022-08-27T17:52:48+05:30
 draft: false
 tags: 
-  - tech
+  - Tech
   - Hugo
 ---
 
@@ -84,3 +84,5 @@ hugo
 
 Drafts do not get deployed.
 Once you finish a post, update the header of the post to say draft: false.
+
+***
