@@ -6,7 +6,7 @@ tags:
   - Book
 ---
 
-![book](/images/i_know_why_the_caged_bird_sings.jpeg)
+![book](/images/book/i_know_why_the_caged_bird_sings.jpeg)
 
 I've read the book titled **"I Know Why The Caged Bird Sings"** by *Maya Angelou*. There are seven volumes of her autobiography, this one is describing the early years of her life. One of my favourite teachers, *Thilaka ma'am* suggested me to read this book.
 
