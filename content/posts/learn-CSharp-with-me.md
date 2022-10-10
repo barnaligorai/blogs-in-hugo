@@ -25,7 +25,7 @@ tags:
     - An *assembly* is a container for related namespaces.
     - An assembly is a file (EXE / DLL) that contains one or more namespaces and classes.
     - An *EXE* file represents a program that can be executed.
-    - A *DLL* is a file that includes code that can be reused accross different programs.
+    - A *DLL* is a file that includes code that can be reused across different programs.
     
 
 ### Getting Started
@@ -58,7 +58,7 @@ tags:
     - Value Type : primitive types, custom structures
     - Reference Type : Array, String, custom classes
 
-Then there is also premitive and non-primitive types.
+Then there is also primitive and non-primitive types.
   - Primitive : byte, short, int, long, char, float, double, bool
   - Non-Primitive : class, struct, array, string, enum
 
@@ -85,7 +85,7 @@ Then there is also premitive and non-primitive types.
     - For example : 
       x = y = z is evaluated as x = (y = z) .
   
-  - Precedenceand associativity can becontrolled using parentheses.   
+  - Precedence and associativity can be controlled using parentheses.   
     - For example : 
      (x + y) * z, first adds x and y and then multiplies the result by z .
 
@@ -210,4 +210,46 @@ Array.Reverse(numbers);
 int[] another = new int[3];
 // Copies 3 values of numbers in another
 Array.Copy(numbers, another, 3);
+```
+
+### List
+
+Array has a fixed size while *List* has dynamic size.
+List is initialised with generics type.
+
+List methods :
+  - Count
+  - Add
+  - AddRange
+  - IndexOf
+  - Contains
+  - Remove
+  - Clear
+```cs
+var numbers = new List<int>(){1,2,3}; // initialization
+
+// count
+Console.WriteLine("Count of numbers : " + numbers.Count); // count = 3
+
+// add a number
+numbers.Add(4); // count = 4
+
+// added a range(array)
+numbers.AddRange(new int[2]{5,6}); // count = 6
+
+// add another list
+numbers.AddRange(new List<int>(){7,8}); // count = 8
+
+// the first occurance of 5
+Console.WriteLine("index of 5 : " + numbers.IndexOf(5)); // index = 4
+
+// contains
+Console.WriteLine(numbers.Contains(3)); // true
+Console.WriteLine(numbers.Contains(10)); // false
+
+// remove the first occurance of 5
+numbers.Remove(5); // count = 7
+
+// clear all 
+numbers.Clear(); // count = 0 
 ```
