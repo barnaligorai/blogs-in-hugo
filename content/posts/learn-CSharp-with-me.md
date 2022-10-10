@@ -28,6 +28,28 @@ tags:
     - A *DLL* is a file that includes code that can be reused accross different programs.
     
 
+### Getting Started
+
+  - Download the '.NET SDK'
+  - Create a new console app and goto app directory
+  ```sh
+   dotnet new console -o app
+   cd app
+  ```
+  - Build the app
+  ```sh
+  dotnet build
+  ```
+  - Write your program in Program.cs
+  ```cs
+  Console.WriteLine("Hello, World!");
+  ```
+  - Run your program
+  ```sh
+  dotnet run
+  ```
+
+
 ### Types
 
 *Value* types and *Reference* types are the two main categories of C# types.
@@ -138,3 +160,54 @@ Then there is also premitive and non-primitive types.
     Console.WriteLine((char)('a' + random.Next(0, 26)));
   }
   ```
+
+
+### Array
+
+C# supports :
+  - Single-dimensional array
+  - Multi-dimensional arrays 
+    - Rectangular array
+    - Jagged array
+
+```cs
+int[] a1 = new int[10]; // single dimensional
+int[,] a2 = new int[10, 5]; // two dimensional
+int[,,] a3 = new int[10, 5, 2]; // three dimensional 
+```
+```cs
+int[,] rectangularArray = new int[3, 4]; // rectangular
+
+int[][] jaggedArray = new int[3][]; // jagged
+jaggedArray[0] = new int[10];
+jaggedArray[1] = new int[5];
+jaggedArray[2] = new int[20];
+```
+
+Array methods :
+  - Length
+  - IndexOf
+  - Clear
+  - Sort
+  - Reverse
+  - Copy
+```cs
+int[] numbers = new int[] {10,30,25};
+Console.WriteLine(numbers.Length); // 3
+
+Console.WriteLine(Array.IndexOf(numbers, 30)); // 1
+
+// clears 1 value in number from index 0
+Array.Clear(numbers, 0, 1);
+Console.WriteLine(numbers[0]); // 0
+
+// sorts in ascending order and modifies the original array
+Array.Sort(numbers);
+
+// reverses numbers and modifies the original array
+Array.Reverse(numbers);
+
+int[] another = new int[3];
+// Copies 3 values of numbers in another
+Array.Copy(numbers, another, 3);
+```
