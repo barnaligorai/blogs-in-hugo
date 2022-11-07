@@ -1,7 +1,7 @@
 ---
 title: "Learn C# With Me"
 date: 2022-10-07T10:42:46+05:30
-draft: true
+draft: false
 tags: 
   - tech
 ---
