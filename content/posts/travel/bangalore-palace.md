@@ -8,7 +8,7 @@ tags:
   - History
 ---
 
-![Bangalore_Palace](/images/bangalore_palace.jpg)
+![Bangalore_Palace](/images/travel/bangalore_palace/bangalore_palace.jpg)
 
 Bangalore Palace is one of the most popular and beautiful attractions in the garder city, Bangalore.
 
@@ -32,7 +32,7 @@ The wooden structure of the palace along with the beautiful carvings both inside
 
 The granite seats decorated with fluorescent blue ceramic tiles on the ground floor, a fairy tale Ballroom, the famous painter Raja Ravi Varma's paintings, vine-covered walls, and the Durbar Hall on the first floor come together to form the prepossessing Bangalore Palace.
 
-![Barnali](/images/bangalore_palace_me.jpg)
+![Barnali](/images/travel/bangalore_palace/bangalore_palace_me.jpg)
 
 A visit to the palace gives you a chance to witness the elegant and lavish splendour of one of the most powerful dynasties of South India. An audio tape is available inside the Palace, both in Hindi and English, to help the people having language issues, understand its history better.
 
