@@ -1,6 +1,6 @@
 ---
 title: "Mysore Palace"
-date: 2022-09-10T19:49:36+05:30
+date: 2022-11-12T19:49:36+05:30
 draft: false
 tags: 
   - Mysore
@@ -77,6 +77,8 @@ The entry fee for
   - Adults Rs 100 / head.
   - Children above 10 years and below 18 years Rs 50 / head.
 
+
+*Cost information here is based on my visit on **4th September, 2022**. So prices may differ.*
 
 
 ### Glimpse of my visit
