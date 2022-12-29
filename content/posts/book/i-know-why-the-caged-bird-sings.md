@@ -1,6 +1,8 @@
 ---
 title: "I Know Why the Caged Bird Sings"
 date: 2022-09-02T20:53:26+05:30
+featured_image: '/images/book_cover.jpeg'
+description: "There is no greater agony than bearing an untold story inside you."
 draft: false
 tags: 
   - Book

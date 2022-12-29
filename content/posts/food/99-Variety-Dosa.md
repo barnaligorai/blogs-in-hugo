@@ -9,6 +9,7 @@ tags:
 Provide yourself a chance to fall in love with **Dosa** in *99 Variety Dosa*.
 
 The dosas are prepared with a thin layer of batter (made with different proportions of lentils and rice). Later, over the base chutney, a set of spices and vegetables are added, then butter, cheese and sauces are spread appropriately to make it richer.
+![Menu](/images/99_variety_dosa/shop.jpeg)
 
 
 ### This place provides 99 different varieties of dosas :
@@ -21,6 +22,7 @@ It's very easy to find 99 Variety Dosa in Bangalore as it's very popular in Sout
 ### Price :
 
 Prices of the dosas are in the range of Rs 40 to Rs 160.
+![Menu](/images/99_variety_dosa/menu.jpeg)
 
 
 ### I have tried :

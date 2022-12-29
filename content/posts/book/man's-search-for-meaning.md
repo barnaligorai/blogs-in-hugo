@@ -1,6 +1,8 @@
 ---
 title: "Man's Search for Meaning"
 date: 2022-09-20T11:18:07+05:30
+featured_image: '/images/book_cover.jpeg'
+description: "When we are no longer able to change a situation, we are challenged to change ourselves."
 draft: false
 tags: 
   - Book

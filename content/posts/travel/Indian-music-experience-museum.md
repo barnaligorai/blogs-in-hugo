@@ -1,5 +1,7 @@
 ---
 title: "Indian Music Experience Museum"
+featured_image: "/images/travel/ime/instrument_gallary.jpeg"
+description: "Feel the rythem in you."
 date: 2022-09-12T19:37:30+05:30
 draft: false
 tags: 

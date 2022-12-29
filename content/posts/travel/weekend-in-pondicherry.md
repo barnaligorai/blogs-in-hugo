@@ -1,6 +1,8 @@
 ---
 title: "Weekend in Pondicherry"
 date: 2022-11-07T14:19:15+05:30
+featured_image: "/images/travel/mysore/mysore_palace.jpg"
+description: "Getting my daily dose of Vitamin Sea."
 draft: false
 tags: 
   - Pondicherry

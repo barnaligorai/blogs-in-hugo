@@ -1,6 +1,8 @@
 ---
 title: "Mandaragiri Hills"
 date: 2022-12-29T10:14:29+05:30
+featured_image: "/images/travel/mandaragiri/peacock-feature-architecture.jpeg"
+description: "When I’m exploring the world is when I feel most at home."
 draft: false
 tags:
   - Travel
@@ -12,7 +14,7 @@ tags:
 
 Mandaragiri Hill, is just about 60 km from Bengaluru, is another destination that is perfect to get away for a day.Mandaragiri hills in Tumkur is an ideal photography destination.
 
-![Mandaragiri_Hill]](/images/travel/mandaragiri/mandaragiri_hill.jpeg)
+![Mandaragiri_Hill](/images/travel/mandaragiri/mandaragiri_hill.jpeg)
 The hill also known as Basadi Betta locally, is a hillock that scales up through around 450 steps.
 
 ![View_from_Temple](/images/travel/mandaragiri/from_temple.jpeg)

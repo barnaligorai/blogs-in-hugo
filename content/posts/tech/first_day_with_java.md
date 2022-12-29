@@ -1,6 +1,8 @@
 ---
 title: "First Day With Java"
 date: 2022-09-01T22:45:15+05:30
+featured_image: '/images/tech_cover.jpeg'
+description: "Learn JAVA"
 draft: false
 tags:
   - Tech

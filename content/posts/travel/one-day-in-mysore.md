@@ -1,6 +1,8 @@
 ---
 title: "One Day in Mysore"
 date: 2022-11-10T17:49:06+05:30
+featured_image: "/images/travel/mysore/Brindavan_gardens.jpeg"
+description: "I fell in love with Mysore"
 draft: false
 tags: 
   - Travel

@@ -1,6 +1,8 @@
 ---
 title: "Bangalore Palace"
 date: 2022-09-01T20:22:16+05:30
+featured_image: "/images/travel/bangalore_palace/bangalore_palace.jpg"
+description: "A Royal Experience."
 draft: false
 tags:
   - Travel

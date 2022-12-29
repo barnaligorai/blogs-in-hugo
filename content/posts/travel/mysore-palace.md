@@ -1,6 +1,8 @@
 ---
 title: "Mysore Palace"
 date: 2022-11-12T19:49:36+05:30
+featured_image: "/images/travel/mysore/mysore_palace.jpg"
+description: "I don't mind getting lost here."
 draft: false
 tags: 
   - Travels
