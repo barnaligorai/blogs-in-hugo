@@ -2,6 +2,10 @@
 title: "Weekend in Pondicherry"
 date: 2022-11-07T14:19:15+05:30
 draft: false
+tags: 
+  - Pondicherry
+  - Travel
+  - Beach
 ---
 
 A brief experience of spending a leisure weekend in Pondicherry with friends. This trip was taken from Bangalore.

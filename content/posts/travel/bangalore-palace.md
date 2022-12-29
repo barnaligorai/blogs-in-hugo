@@ -2,7 +2,8 @@
 title: "Bangalore Palace"
 date: 2022-09-01T20:22:16+05:30
 draft: false
-tags: 
+tags:
+  - Travel
   - Bangalore
   - Palace
   - History

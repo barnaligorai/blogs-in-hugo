@@ -3,6 +3,7 @@ title: "Mysore Palace"
 date: 2022-11-12T19:49:36+05:30
 draft: false
 tags: 
+  - Travels
   - Mysore
   - Palace
   - History
