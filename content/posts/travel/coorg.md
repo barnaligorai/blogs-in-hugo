@@ -1,7 +1,7 @@
 ---
 title: "Coorg"
 date: 2022-12-29T15:11:52+05:30
-featured_image: "/images/travel/coorg/talakauvery_view.jpeg"
+featured_image: "/images/travel/coorg/we.jpeg"
 description : "The Scotland Of India"
 draft: false
 tags: ["Travel", "Coorg", "Hills"]
