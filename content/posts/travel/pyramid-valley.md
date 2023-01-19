@@ -2,7 +2,7 @@
 title: "Pyramid Valley"
 date: 2023-01-16T19:26:43+05:30
 featured_image: "/images/travel/pyramid_valley/pyramid_front.jpeg"
-description: "Visit to know your innerself."
+description: "Visit to know your inner self."
 draft: false
 tags: ["Travel", "Pyramid Valley"]
 ---
@@ -24,7 +24,7 @@ Maitreya Buddha Pyramid, main attraction in Pyramid Valley, is the world’s lar
 
 ![inside_pyramid](/images/travel/pyramid_valley/inside.jpeg)
 
-Inside the pyramid, there is seating arrangement. People can meditate there and feel the power of silence. Within this pyramid, up to 5000 people can meditate peacefully with no space constraints. There is that special structure in the middle, where people can go and indulge themselves in deep meditation from atleast 30 minutes.
+Inside the pyramid, there is seating arrangement. People can meditate there and feel the power of silence. Within this pyramid, up to 5000 people can meditate peacefully with no space constraints. There is that special structure in the middle, where people can go and indulge themselves in deep meditation from at least 30 minutes.
 
 ![art](/images/travel/pyramid_valley/art.jpeg)
 
@@ -53,7 +53,7 @@ There are many meditation classes, retreats and other programs are held in Pyram
 
 ### My View :
 
-Sometimes all we need is a break to become more productive. I visited Pyramid Valley from Bangalore to take my break from the hussle of daily life. I spent only in the transportation, there was no entry fee and even the lunch was provided to all the visitors free of cost. I spent there almost 3 hours, and those hours were really healing for the my soul.
+Sometimes all we need is a break to become more productive. I visited Pyramid Valley from Bangalore to take my break from the hustle of daily life. I spent only in the transportation, there was no entry fee and even the lunch was provided to all the visitors free of cost. I spent there almost 3 hours, and those hours were really healing for the my soul.
 
 ![garden](/images/travel/pyramid_valley/garden.jpeg)
 ![flower](/images/travel/pyramid_valley/flower.jpeg)

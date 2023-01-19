@@ -19,6 +19,7 @@ My experience was amazing. I loved Coorg and definitely I'd like to visit Coorg 
 
 Here I'll be writing about my experience.
 
+
 ### When to Visit Coorg?
 
 Coorg weather makes the places to visit in Coorg accessible all through the year. Coorg temperature ranges between 14°C and 32°C making it an ideal year-round destination. If you want to embark on a walk or engage in outdoor activities, October to March is the best time to visit Coorg.
@@ -41,7 +42,7 @@ There are many staying options like resort, hotel, homestay and even hostels.
 We stayed in : Holidayincoorg Leisure Homes.
 Though 2 persons in each room were allowed, we were 5 in count, still they allowed us and we had a lot of fun satying there. Rooms are clean and spacious.
 
-It cost us around 1300 INR per room.
+It cost us around 650 INR per person.
 
 
 ### How to roam around
@@ -55,6 +56,7 @@ We paid :
   - Cab : 4000 INR for 2ND day sight seeings
 
 Fare depends on the size of the group, as we were 5 in count, we had to take 2 autos and a cab spacious enough for 5 people along with our luggage.
+
 
 ### Our itinerary
 
@@ -78,6 +80,7 @@ Fare depends on the size of the group, as we were 5 in count, we had to take 2 a
 
   ![abbey_falls](/images/travel/coorg/in_abbey_falls.jpeg)
   ![museum](/images/travel/coorg/museum.jpeg)
+
 
 #### Day 2
 
