@@ -3,7 +3,7 @@ title: "Pyramid Valley"
 date: 2023-01-16T19:26:43+05:30
 featured_image: "/images/travel/pyramid_valley/pyramid_front.jpeg"
 description: "Visit to know your innerself."
-draft: true
+draft: false
 tags: ["Travel", "Pyramid Valley"]
 ---
 

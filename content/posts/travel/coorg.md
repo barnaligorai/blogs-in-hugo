@@ -39,9 +39,9 @@ It cost me around :
 
 There are many staying options like resort, hotel, homestay and even hostels.
 We stayed in : Holidayincoorg Leisure Homes.
-2 persons in each room. Rooms are clean and spacious.
+Though 2 persons in each room were allowed, we were 5 in count, still they allowed us and we had a lot of fun satying there. Rooms are clean and spacious.
 
-It cost us around 600 INR per head.
+It cost us around 1300 INR per room.
 
 
 ### How to roam around
@@ -49,10 +49,12 @@ It cost us around 600 INR per head.
 Renting two-wheeler is the most popular way to roam around there. But none of us were carrying license, so we roamed in bus, auto and cab. The homestay host arranged the auto and cab for us. After the trip, we have realized that the trip was so smooth and husslefree because we didn't have to ride or drive on those roads filled with hairpin loops.
 
 We paid :
-  - Bus : 56 INR pp to go to Talacauvery Temple from Madikeri Town (coming back also same)
+  - Bus : 56 INR pp to go to Talacauvery Temple from Madikeri Town (return is also same)
   - Auto : 1600 INR on 1st day for 2 autos to do local sight seeings
   - Jeep : 2500 INR to visit Mandalpatti
   - Cab : 4000 INR for 2ND day sight seeings
+
+Fare depends on the size of the group, as we were 5 in count, we had to take 2 autos and a cab spacious enough for 5 people along with our luggage.
 
 ### Our itinerary
 
@@ -77,7 +79,7 @@ We paid :
   ![abbey_falls](/images/travel/coorg/in_abbey_falls.jpeg)
   ![museum](/images/travel/coorg/museum.jpeg)
 
-#### Day 1
+#### Day 2
 
   ![mandalpatti](/images/travel/coorg/jeep.jpeg)
   - We started our day around 5:30 am with Mandalpatti
