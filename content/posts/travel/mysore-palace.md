@@ -5,7 +5,7 @@ featured_image: "/images/travel/mysore/mysore_palace.jpg"
 description: "I don't mind getting lost here."
 draft: false
 tags: 
-  - Travels
+  - Travel
   - Mysore
   - Palace
   - History

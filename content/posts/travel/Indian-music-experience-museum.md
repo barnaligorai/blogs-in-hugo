@@ -7,6 +7,7 @@ draft: false
 tags: 
   - Museum
   - Bangalore
+  - Travel
   - Music
 ---
 
